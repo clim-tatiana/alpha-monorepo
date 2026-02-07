@@ -56,7 +56,7 @@ This repository is the technical execution of a documented product lifecycle:
 ```
 ## 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/TEU_UTILIZADOR/alpha-finance.git](https://github.com/TEU_UTILIZADOR/alpha-finance.git)
+   git clone [https://github.com/clim-tatiana/alpha-monorepo.git](https://github.com/clim-tatiana/alpha-monorepo.git)
    cd alpha-finance
   ```
 ## 2.Install Dependencies:
