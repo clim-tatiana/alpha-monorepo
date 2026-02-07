@@ -3,7 +3,7 @@
 **Alpha Finance** is a high-performance financial monitoring platform designed to provide a unified, real-time view of global assets, including Stocks and Cryptocurrencies. This project is built as a showcase of **Full-Cycle Software Engineering**, from product discovery and Agile management to edge-runtime deployment.
 
 > 🌐 **Live Demo:** [soon](https://alpha.sededigital.pt)  
-> 📊 **Project Roadmap:** [Public Jira Board](https://financialdashboard.atlassian.net/jira/polaris/projects/AL/ideas/view/11032328)
+> 📊 **Project Roadmap:** [Public Jira Board](https://financialdashboard.atlassian.net/jira/polaris/projects/AL/ideas/view/11032328)   
 > 🎨 **Design System:** [Figma Prototype](https://www.figma.com/make/g5uKbIVnK0r0opWnH4zHPL/Dashboard-para-A%C3%A7%C3%B5es-e-Crypto?fullscreen=1&t=BDtjpW5Mlsvl209O-1)
 
 ---
