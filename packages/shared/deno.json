@@ -1,0 +1,4 @@
+{
+    "exports": "./mod.ts",
+    "nodeModulesDir": "auto"
+  }

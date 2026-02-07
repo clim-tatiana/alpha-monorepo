@@ -1,0 +1,16 @@
+{
+    "workspace": [
+     "./apps/frontend",
+      "./apps/backend",
+      "./packages/shared"
+    ],
+    "nodeModulesDir": "manual",
+    "tasks": {
+      "dev:back": "deno run -A --env --watch apps/backend/main.ts",
+      "dev:front": "cd apps/frontend && deno task dev",
+      "dev": "deno task dev:back & deno task dev:front"
+    },
+    "imports": {
+      "@alpha/shared": "./packages/shared/mod.ts"
+    }
+  }
